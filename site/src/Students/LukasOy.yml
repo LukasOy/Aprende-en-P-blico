@@ -1,0 +1,56 @@
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Lukas
+  last_name: Oyaneder
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary:
+   
+  El Bootcamp con 4Geeks porque quiero cambiar mi actual carrera, 
+  siendo este un apoyo para lograr mis nueva objetivos y proyectos, 
+  además de hacer este bootcamp, 
+  actualmente estoy cursando la universidad Tecnico en Informatica."
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://avatars.githubusercontent.com/u/111893071?s=400&v=4
+
+  # Contact Information
+  email:  #optional
+  phone:  #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: LukasOy
+  twitter:  #optional
+
+
+  # Interests or hobies
+  interests:
+    - item: Plantas
+
+    - item: Arboles
+
+    - item: Cocinar
+
+# Your previous education
+education:
+  - degree: Web Developer
+    academy: 4Geeks Academy
+    # optional
+    university_logo: https://4geeksacademy.com//images/4geeks-logo.png
+    time: Septiembre-2022 - Febrero-2023
+    details: |
+      Actualmente cursando el bootcamp 4Geeks el cual ha sido un proyecto de inmersión con el mundo
+      del desarrollo web
+
+experiences:
+ 
+    company_logo: https://4geeksacademy.com//images/4geeks-logo.png
+    details: 
+    To-Do List: Aplicacion para apuntar los quehaceres y eliminarlos cuando sean completados.
+      Tecnologias: Html, Css, React con Eventos, Hooks y Fetch.
+
+    
